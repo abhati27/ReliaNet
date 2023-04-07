@@ -10,7 +10,7 @@ ReliaNet is a project that demonstrates the implementation of a reliable data tr
 - `receiver.py`: A script simulating the receiver side of the communication, which uses the recv function from `reliable_transfer.py` to receive and reconstruct the transmitted data.
 - `server.py`: A script simulating the unreliable link between the sender and receiver, introducing packet loss and latency based on the parameters set in the `tester.py` script.
 
-## Usage
+## `testing the implementation
 
 1. Test your file using the `tester.py` script. For example:
 
