@@ -18,6 +18,8 @@ ReliaNet is a project that demonstrates the implementation of a reliable data tr
 
   This command tests the reliable_transfer.py sending the `test_data.txt` file over an unreliable connection with a 5% packet loss rate and a 100ms delay.
 
+  You can replace 'test_data.txt' with any other file you would like to send and test.
+
 2. You can view the available options and parameters for the `tester.py` script by running:
   
   python3 tester.py --help
